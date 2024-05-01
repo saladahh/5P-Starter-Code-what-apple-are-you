@@ -1,0 +1,17 @@
+body {
+    font-family: Monaco;
+    background-color: darkred;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+body {
+    color: white;
+}
+
+h1 {
+    color: red;
+}
